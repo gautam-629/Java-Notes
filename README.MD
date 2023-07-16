@@ -46,7 +46,9 @@ Heap memory allows for dynamic memory allocation and is slower but larger than s
 ## 4 Array , Multidimensional array and Jagged array
 > **Array**
 
-In Java, an array is a data structure used to store a fixed-size sequence of elements of the same type. 
+In Java, an array is a data structure used to store a fixed-size sequence of elements of the same type. or
+List of items of the same type placed in continguous Memory Location
+    
 ```java
         int nums[]={3,2,4,3};  // static
         int nums[]=new int [4]; 
